@@ -7,4 +7,6 @@ google-generativeai
 faiss-cpu
 PyPDF2
 python-dotenv
+flask
+flask_cors
 tiktoken
