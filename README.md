@@ -1,7 +1,3 @@
-Below is a **clean, human-friendly, well-structured README** you can directly use in your GitHub repository.
-It’s written to sound **confident but approachable**, and it explains **what the system does, why it exists, and how everything connects**, without sounding robotic.
-
-I’ve structured it so that **recruiters, judges, or teammates** can understand it in one read.
 
 ---
 
