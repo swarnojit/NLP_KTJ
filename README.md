@@ -235,12 +235,4 @@ Focused on building **real-world, production-grade AI systems**
 
 ---
 
-If you want, I can also:
-
-* Convert this into a **startup-style README**
-* Rewrite it for **hackathon judges**
-* Create a **system design diagram**
-* Add **API schema documentation**
-* Or tailor it for **placements / internships**
-
 Just tell me 👍
